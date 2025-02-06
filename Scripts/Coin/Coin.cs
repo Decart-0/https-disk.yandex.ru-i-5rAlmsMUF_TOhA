@@ -1,0 +1,1 @@
+public class Coin : Loot<int>, IPickupable {}
